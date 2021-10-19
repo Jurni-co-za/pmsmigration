@@ -1,0 +1,15 @@
+{
+	"db": {
+		"username": "Lukhanyo",
+		"password": "Fjr%&P$181#",
+		"host": "jurnitraveldev.database.windows.net",
+		"database_name": "jurnitraveluat-db",
+		"driver": "{ODBC Driver 17 for SQL Server}",
+		"port": "3306"
+
+	},
+	"img_path": "my path",
+	"src_dir" : "folder1",
+    "dst_dir" : "folder2",
+	"path": ""
+}
